@@ -1,0 +1,90 @@
+#principal {
+  width: 600px;
+  margin: auto;
+}
+
+#div2 {
+  background-color: black;
+  color: #00a857;
+  text-align: center;
+}
+#div3 {
+  background-color: black;
+  color: white;
+  font-family: "Helvetica";
+  font-style: normal;
+  left: 60px;
+  top: 291px;
+  padding: 10px;
+}
+#div4 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 374px, 87px, 1991px, 60px;
+}
+
+#div5 {
+}
+#div6 {
+  background-color: black;
+}
+#div10 {
+  background-color: #f6f6f6;
+  border-radius: 10px;
+  font-family: "Helvetica";
+  font-style: normal;
+  padding: 10px;
+}
+
+#div11 {
+  text-decoration: underline;
+  font-family: "Helvetica";
+  font-style: normal;
+}
+.imgg {
+  width: 600px;
+}
+#princ2 {
+  background-color: black;
+}
+#div9 {
+  color: #00a857;
+  font-family: "Helvetica";
+  font-style: normal;
+}
+.imcc {
+  width: 56px;
+  height: 56px;
+  left: 60px;
+  top: 505px;
+}
+table {
+  background-color: black;
+  color: #ffffff;
+}
+.imccc {
+  width: 25px;
+  height: 25px;
+  background-color: #ffffff;
+}
+#table2 {
+  background-color: #ffffff;
+}
+#phr {
+  color: #00a857;
+  font-family: "Helvetica";
+  font-style: normal;
+}
+#s1 {
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  padding: 89px;
+  margin: 10px;
+}
+#oo {
+  padding: 28px, 33px, 26px, 33px;
+}
